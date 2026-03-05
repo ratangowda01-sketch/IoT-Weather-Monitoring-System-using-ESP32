@@ -1,4 +1,4 @@
- ESP32 IoT Weather Monitoring System
+🌦 ESP32 IoT Weather Monitoring System
 -------------------------------------------------
 ## 📌 Project Overview
 
